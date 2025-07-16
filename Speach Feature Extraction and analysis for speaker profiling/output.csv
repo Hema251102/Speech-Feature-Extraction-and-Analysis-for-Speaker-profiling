@@ -1,0 +1,7 @@
+File Name,Duration (sec),Pitch (Hz),Energy (RMS),MFCC_1,MFCC_2,MFCC_3,MFCC_4,MFCC_5,Transcription
+hema_01.wav,7.54,212.89,0.0299,-397.57,61.56,40.08,9.32,19.58,hello my name is Hema I am recording this for a speech profiling project
+hema_02.wav,5.9,214.82,0.0234,-401.74,33.08,55.21,19.61,10.82,artificial intelligence is changing the way we interact with machines everyday
+hema_03.wav,5.71,199.76,0.0114,-449.67,67.13,24.38,13.04,-2.75,I am really excited to be working on this voice analysis project today
+hema_04.wav,4.34,225.38,0.0187,-450.52,33.86,64.97,11.68,17.62,speaking slowly and clearly for this analysis
+hema_05.wav,3.86,212.16,0.0152,-459.94,16.86,37.7,18.27,1.82,she sells seashells by the seashore
+hema_06.wav,10.94,208.34,0.0204,-401.44,52.61,45.4,6.69,12.21,this recording will help analyse my speech features like pitch energy and mfcc values to understand my local profile
